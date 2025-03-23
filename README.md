@@ -9,7 +9,7 @@
 
 ## 🛠️ Habilidades
 - **Linguagens**: JavaScript, Python, C++ e C#.
-- **Ferramentas**: Sublime Text, VS Code, Code Block.
+- **Ferramentas**: Sublime Text, VS Code, Visual Studio Code.
 - **Outras**: HTML, CSS, Google Cloud (GCP).
 
 ## 🌱 Em Aprendizado
